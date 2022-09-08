@@ -16,7 +16,7 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "小王同志","小李同志",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "okFIj56WHKoXf1tbNjjdY3I6rEt0","okFIj55kB8y_5Su4aLzpl6vU52Q0",
+   *    id: "gh_7f0eb4da87cd",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "4m6mJtOAPt6Q9ZdxhznUyr8Kd0ShwGJtOdfptCkvGz4",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -27,24 +27,24 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "小王同志",
+      name: "珍珍小宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "okFIj56WHKoXf1tbNjjdY3I6rEt0",
+      id: "gh_7f0eb4da87cd",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "4m6mJtOAPt6Q9ZdxhznUyr8Kd0ShwGJtOdfptCkvGz4",
       // 所在省份
-      province: "河南",
+      province: "广东",
       // 所在城市
-      city: "新乡",
+      city: "广州",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "小李同志", 
-      id: "okFIj55kB8y_5Su4aLzpl6vU52Q0",
+      id: "gh_7f0eb4da87cd",
       useTemplateId: "4m6mJtOAPt6Q9ZdxhznUyr8Kd0ShwGJtOdfptCkvGz4",
-      province: "河南",
-      city: "新乡",
+      province: "广东",
+      city: "广州",
       openUrl: "https://wangxinleo.cn"
     }, 
 
@@ -61,7 +61,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "okFIj55kB8y_5Su4aLzpl6vU52Q0",
+      id: "wx9c72800fd2dc6c4c",
     }, 
   ],
     
@@ -72,9 +72,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "河南",
+  PROVINCE: "广东",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "新乡",
+  CITY: "广州",
 
   /** 重要节日相关 */
 
@@ -85,7 +85,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "小王同志", "year": "2002", "date": "07-20"},
+    {"type": "生日", "name": "珍珍", "year": "1997", "date": "02-22"},
     {"type": "生日", "name": "小李同志", "year": "2001", "date": "09-21"},
   ],
 
