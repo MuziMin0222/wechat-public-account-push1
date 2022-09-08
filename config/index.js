@@ -52,7 +52,10 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "珍珍", "year": "1997", "date": "02-22"},
-    {"type": "生日", "name": "小李同志", "year": "2001", "date": "09-21"},
+    {"type": "节日", "name": "结婚纪念日", "year": "2022", "date": "07-19"},
+    {"type": "节日", "name": "订婚纪念日", "year": "2022", "date": "01-28"},
+    {"type": "节日", "name": "求婚纪念日", "year": "2020", "date": "09-19"},
+    {"type": "节日", "name": "恋爱纪念日", "year": "2018", "date": "01-19"}
   ],
 
   /**
@@ -70,7 +73,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2019-03-10"},
+    {"keyword": "love_day", date: "2018-01-19"},
  
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
