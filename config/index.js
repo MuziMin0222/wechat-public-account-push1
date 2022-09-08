@@ -5,7 +5,7 @@ export const config = {
   USERS: [
     {
       name: "珍珍小宝贝",
-      id: "oQdQa6w2B9FhAhKVpVOu4aFM6Y40",
+      id: "oQdQa6-P8fKwVN6taQebiERXg33Q",
       useTemplateId: "7WMRSlTSSdGhd7cHhv7NJysCqmDVgdIVoFowVYcJHiE",
       province: "广东",
       city: "广州",
