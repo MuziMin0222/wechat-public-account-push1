@@ -1,4 +1,7 @@
 export const config = {
+  APP_ID: "wxb80a20cc3dec7e98",
+  APP_SECRET: "5c25049df2c1c0fd6859dc3537f0f691",
+  
   USERS: [
     {
       name: "珍珍小宝贝",
