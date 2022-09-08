@@ -9,7 +9,7 @@ export const config = {
       useTemplateId: "7WMRSlTSSdGhd7cHhv7NJysCqmDVgdIVoFowVYcJHiE",
       province: "广东",
       city: "广州",
-      openUrl: "https://wangxinleo.cn"
+      openUrl: ""
     }],
 
   /**
